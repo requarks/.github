@@ -4,6 +4,6 @@
   
   #### Wiki.js - The most powerful and extensible open source Wiki software.
   
-  [Website](https://js.wiki) | [Documentation](https://docs.requarks.io) | [GitHub Repository](https://github.com/requarks/wiki) 
+  Go to [Website](https://js.wiki) | [Documentation](https://docs.requarks.io) | [GitHub Repository](https://github.com/requarks/wiki) 
   
 </div>
