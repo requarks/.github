@@ -1,6 +1,9 @@
 <div align="center">
   
-  <img src="https://static.requarks.io/logo/wikijs-full.svg" alt="Wiki.js" width="80%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://static.requarks.io/logo/wikijs-full-darktheme.svg">
+    <img alt="Wiki.js" src="https://static.requarks.io/logo/wikijs-full.svg" width="80%">
+  </picture>
   
   #### Wiki.js - The most powerful and extensible open source Wiki software.
   
